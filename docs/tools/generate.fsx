@@ -11,17 +11,17 @@
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
 let referenceBinaries = []
 // Web site location for the generated documentation
-let website = "/##ProjectName##"
+let website = "/Modules.Core"
 
-let githubLink = "http://github.com/##GitHome##/##GitName##"
+let githubLink = "http://github.com/Microsoft/modules-core"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "##ProjectName##"
-    "project-author", "##Author##"
-    "project-summary", "##Summary##"
+  [ "project-name", "Modules.Core"
+    "project-author", "olfeng@microsoft.com"
+    "project-summary", "Modules with interchangeable \"source mode\" and \"binary mode\""
     "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/##ProjectName##" ]
+    "project-nuget", "http://nuget.org/packages/Modules.Core" ]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below

@@ -1,0 +1,23 @@
+type project
+owners
+    olfeng@microsoft.com
+authors 
+    olfeng@microsoft.com
+projectUrl
+    http://github.com/Microsoft/Modules.Core
+iconUrl
+    https://raw.githubusercontent.com/Microsoft/Modules.Core/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/Microsoft/Modules.Core/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    native modules
+summary
+    Modules with interchangeable \"source mode\" and \"binary mode\"
+description
+    Modules
+
+
